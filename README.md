@@ -1,7 +1,7 @@
 # Emacs Setting
 
 私のEmacsの設定 elです。  
-Emacsの使用バージョンは　GNU Emacs 24.5.1 (x86_64-pc-mingw32) (https://github.com/chuntaro/NTEmacs64)
+Emacsの使用バージョンは　GNU Emacs 24.5.1 (x86_64-pc-mingw32) (https://github.com/chuntaro/NTEmacs64)  
 基本日本語を使う前提として設定しています。(04-ime.elで設定)  
 主にMayaのスクリプト開発、Pythonを使用した単独ツールの作成をしています。  
 
